@@ -1,0 +1,34 @@
+table{
+	width: 100%;
+	text-align: center;
+
+}
+table, tr, td,th{
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+th{
+	color: red;
+}
+ul{
+	list-style: square;
+	list-style-position: inside;  
+}
+ul li{
+	border: 2PX solid black;
+}
+ol{
+	list-style: upper-alpha;
+	list-style-position: inside; 
+}
+ol li{
+	border: 3PX solid blue;
+}
+.header{
+	width: 20px;
+	background-color: red;
+}
+
+
+
+
